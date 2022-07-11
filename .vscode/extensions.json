@@ -1,0 +1,10 @@
+{
+    "recommendations": [
+        "aaron-bond.better-comments",
+        "exodiusstudios.comment-anchors",
+        "esbenp.prettier-vscode",
+        "equinusocio.vsc-community-material-theme",
+        "dzhavat.bracket-pair-toggler",
+        "oderwat.indent-rainbow"
+    ]
+}
